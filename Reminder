@@ -1,0 +1,115 @@
+<html>
+<head>
+</title> Enerji Gunlukleri </title>
+</head>
+<body>
+<a  href="https:enerjigunlukler.com/"
+title="Güzel bir blog sitesi"> Blog sitemiz</a>
+</body>
+</html>
+
+
+//Baska siteye yönlendirme ve site adı ayarlama
+
+
+<h1>Birinci baslik </h1>
+<h2>Ikinci baskik </h2>
+<hr/>  --> ______________ Atar sayfaya
+
+
+//Baslik Türleri
+
+
+<p>Alt satirdan yazmaya baslar.
+
+<br/>Az boşluk bırakıp alt satira geçer.
+
+<b>Kalin yazar.</b><strong>Kalin yazar.</strong>
+
+<em>Yatik yazar</em>
+
+
+//Temeller
+
+
+<p><a href="mailto:emisyonsuz@gmail.com"> Buraya basarak mail atabilirsiniz.</p>
+
+
+//Maile yönlendirme
+
+
+<br><a href=#dönüs>Sayfanın üst kısmına gitmek için tıklayın</a>
+
+
+//Sayfa ustune gitmek icin
+
+
+<br/><img src="klasor.jpg"width=500/>
+
+
+//Resim yansitmak
+
+
+<ul>
+<li> Panel </li>
+<li> Transformator </li>
+<li> Jel Aku </li>
+
+
+/*
+*Panel
+*Transformator
+*Jel Aku
+Gibi tablo olusturma
+<ul> yerine <ol> kullanılırsa 
+1.Panel gibi olur.
+*/
+
+
+
+
+<html>
+<head>
+<title>Enerji Gunlukleri</title>
+</head>
+<body>
+<table border=7 width=1000 cellpadding=5 cellspacing=1>
+<tr>
+<th colspan=4> Güneş Paneli Toplam Maliyetleri </th>
+</tr>
+<tr>
+<td> Sira </td>
+<th> Urunler </th>
+<th> Modeller </th>
+<th> Fiyatlar </th>
+</tr>
+
+<tr>
+<td> 1. </td>
+<td> Gunes Paneli </td>
+<td> 180 Watt Monokristal </td>
+<td> 622,90 TL </td>
+</tr>
+<tr>
+<td> 2. </td>
+<td> align=center> Akü </td>
+<td> 12v - 60 Ah Jel Akü </td>
+<td> 499,00 TL </td>
+</tr>
+<tr>
+<td> 3. </td>
+<td> align=right> Invertor </td>
+<td> Sinüs Modifiye 12v 300W </td>
+<td> 270,25 TL </td>
+</tr>
+<tr>
+<td> 4. </td>
+<td> Sarj Kontrol </td>
+<td> Pvm </td>
+<td> 90,00 TL </td>
+</tr>
+</table>
+</body>
+</html>
+
+//Tablo olusturma
